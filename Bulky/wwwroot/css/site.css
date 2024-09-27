@@ -9,12 +9,6 @@ body {
     flex-direction: column;
 }
 
-main {
-    flex: 1;
-    padding: 20px; /* Adds some spacing inside the main content */
-    min-height: 60vh; /* Ensures the main section has a decent minimum height */
-    background-color: #f8f9fa; /* Optional: Light background color for contrast */
-}
 
 footer {
     margin-top: auto;
